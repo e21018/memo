@@ -1,25 +1,18 @@
-# headding 1
+# マークダウン記法
 
-## headding 2
+## リスト
 
-### headding 3
+### 順序リスト
 
-#### headding 4
+1. りんご
+    - あめ
+    - ジュース
+    - パイ
+1. みかん
+1. なし
 
-##### headding 5
+### Unorder List
 
-#<font color='RED'>あいうえお</font>
-#<font color='BLUE'>かきくけこ</font>
-#<font color='YELLOW'>さしすせそ</font>
-#<font color='GREEN'>あ</font>
-#<font color='PINK'>あいうえお</font>
-#<font color='LIGHTGREEN'>あいうえお</font>
-#<font color='ORENGE'>あいうえお</font>
-
-#<font color='red'> &#x1f608; You are Dead &#x1f608;</font>
-
-#[グーグル](https://www.google.com)
-
-> AAAAAA
-
-AAAAAAA
+- Apple
+- Orenge
+- Pear
