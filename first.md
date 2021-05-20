@@ -18,7 +18,7 @@
 
 #<font color='red'> &#x1f608; You are Dead &#x1f608;</font>
 
-#[グーグル](https'//www.google.com)
+#[グーグル](https://www.google.com)
 
 > AAAAAA
 
